@@ -1,1 +1,1 @@
-from .database import students, programs, colleges
+from .database import students, programs, colleges, get_db_connection
